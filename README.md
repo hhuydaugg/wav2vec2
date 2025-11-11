@@ -49,8 +49,8 @@ The model was **trained and evaluated on Kaggle** using a **NVIDIA Tesla P100 GP
 
 | Dataset                         | EER (Equal Error Rate) | Notes                        |
 | ------------------------------- | ---------------------- | ---------------------------- |
-| ASVspoof 2019 LA (Dev)          | **1.12%**              | After fine-tuning            |
-| Baseline XLS-R (frozen encoder) | 4.92%                  | Before fine-tuning           |
+| ASVspoof 2019 LA (Dev)          | **1.06%**              | After fine-tuning            |
+| Baseline XLS-R (frozen encoder) | 2.28%                  | Before fine-tuning           |
 | Traditional Baseline System     | ≈ 8%                   | From ASVspoof 2019 challenge |
 | Top Challenge System            | ≈ 0.22%                | Complex ensemble             |
 
